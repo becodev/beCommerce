@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/becommerce/static/js/main.be13efe6.chunk.js",
-    "main.js.map": "/becommerce/static/js/main.be13efe6.chunk.js.map",
+    "main.js": "/becommerce/static/js/main.4f1e370d.chunk.js",
+    "main.js.map": "/becommerce/static/js/main.4f1e370d.chunk.js.map",
     "runtime-main.js": "/becommerce/static/js/runtime-main.9a461509.js",
     "runtime-main.js.map": "/becommerce/static/js/runtime-main.9a461509.js.map",
-    "static/js/2.26714988.chunk.js": "/becommerce/static/js/2.26714988.chunk.js",
-    "static/js/2.26714988.chunk.js.map": "/becommerce/static/js/2.26714988.chunk.js.map",
+    "static/js/2.5f242c5f.chunk.js": "/becommerce/static/js/2.5f242c5f.chunk.js",
+    "static/js/2.5f242c5f.chunk.js.map": "/becommerce/static/js/2.5f242c5f.chunk.js.map",
     "index.html": "/becommerce/index.html",
-    "static/js/2.26714988.chunk.js.LICENSE.txt": "/becommerce/static/js/2.26714988.chunk.js.LICENSE.txt",
+    "static/js/2.5f242c5f.chunk.js.LICENSE.txt": "/becommerce/static/js/2.5f242c5f.chunk.js.LICENSE.txt",
     "static/media/store.64e6d825.png": "/becommerce/static/media/store.64e6d825.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9a461509.js",
-    "static/js/2.26714988.chunk.js",
-    "static/js/main.be13efe6.chunk.js"
+    "static/js/2.5f242c5f.chunk.js",
+    "static/js/main.4f1e370d.chunk.js"
   ]
 }
