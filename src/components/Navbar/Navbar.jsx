@@ -11,7 +11,7 @@ import {
 } from "@material-ui/core";
 import { ShoppingCart } from "@material-ui/icons";
 
-import logo from "../../assets/commerce.png";
+import logo from "../../assets/store.png";
 import useStyles from "./styles";
 
 const Navbar = ({ totalItems }) => {
